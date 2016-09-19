@@ -4,4 +4,5 @@ BIRI
 KURVI 
 Mandja 
 
+oshte mandja
 

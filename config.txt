@@ -1,7 +1,0 @@
-
-Kiselo zele i nadenica
-
-name = Simo
-size = 100000
-email = NIGGA@dir.bg
-
